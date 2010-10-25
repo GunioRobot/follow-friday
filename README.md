@@ -1,6 +1,12 @@
-Our weekly picks for who to follow GitHub. Checkout the [The Changelog](http://thechangelog.com) details.
+Our weekly picks for who to follow GitHub. Checkout the [The Changelog](http://thechangelog.com) for more details.
 
-### #GFF 0.0.1
+### #GFF 102910
+
+#### [jamesgpearce (James Pearce)](http://github.com/jamesgpearce)
+
+James' [modernizr-server](http://github.com/jamesgpearce/modernizr-server) brings Modernizr browser data to your server scripting environment. We've covered Modernizr being used in other projects before. Modernizr is a great way to find out about your user's browser capabilities. However, you can only access its API on the browser itself, which means you can't easily benefit from knowing about browser capabilities in your server logic. PHP is currently supported, and James intends to offer other server-side environments in the future, that's going to be based on demand!
+
+### #GFF 092410
 
 #### [bmizerany (Blake Mizerany)](http://github.com/bmizerany)
 
